@@ -1,4 +1,4 @@
-# Halo Semuanya ! 
+# Halo Semuanya 👋 ! 
 
 Perkenalkan nama saya **Michael**.  
 Saya berkuliah di [**IBBI UNIVERSITY**](https://ibbi.ac.id) dengan mengambil jurusan **Teknik Informatika**.  
