@@ -7,7 +7,7 @@ Saya juga memiliki basic skill pada bidang :
   * UI/UX Developer
   * Editor
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [LinkedIn](https://www.linkedin.com/in/michael-liu-983770222)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [LinkedIn](https://www.linkedin.com/in/michaelliu12)ku ya.
 
 <p align="left">
 <a href="https://github.com/michaelliu12">
