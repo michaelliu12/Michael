@@ -4,8 +4,8 @@ Perkenalkan nama saya **Michael**.
 Saya berkuliah di [**IBBI UNIVERSITY**](https://ibbi.ac.id) dengan mengambil jurusan **Teknik Informatika**.  
 Saya juga memiliki basic skill pada bidang :
   * Front-End Developer
-  * UI/UX Developer
-  * Editor
+  * Design
+  * Editing
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [LinkedIn](https://www.linkedin.com/in/michaelliu12)ku ya.
 
