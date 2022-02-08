@@ -1,7 +1,7 @@
 # Halo Semuanya 👋 ! 
 
 Perkenalkan nama saya **Michael**.  
-Saya berkuliah di [**IBBI UNIVERSITY**](https://ibbi.ac.id) dengan mengambil jurusan **Teknik Informatika**.  
+Saya berkuliah di [**IBBI UNIVERSITY**](https://ibbi.ac.id) dan mengambil prodi **Teknik Informatika**.  
 Saya juga memiliki basic skill pada bidang :
   * Front-End Developer
   * Design
